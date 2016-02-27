@@ -1,7 +1,7 @@
-name: Banking for the rich
+name: Lux Banker
 favicon: null
-layout_spectrum: 0.5680792781058699
-typography_spectrum: 0.4623367050662637
+layout_spectrum: 1
+typography_spectrum: 0.90415
 cta:
   domain: null
   bucket: null
