@@ -1,4 +1,4 @@
-name: Lux Banker
+name: Lux. Banker
 favicon: null
 layout_spectrum: 0.7476
 typography_spectrum: 0.90415
@@ -23,7 +23,7 @@ color:
     - '#27548d'
     - '#1f1f1f'
   brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.8125
-  rhythmicContrast: 0.9422159052919596
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
